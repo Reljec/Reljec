@@ -1,5 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Masters student in Computational Social Science<br>Bsc in Banking & Finance (First Class Honours)<br>Python amateur, Pro Stata hater, and Learning R<br>🇬🇧
 
+
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Reljec&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Reljec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Reljec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Reljec/Reljec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

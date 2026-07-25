@@ -1,5 +1,5 @@
 # 💫 About Me:
-Masters student in Computational Social Science<br>Bsc in Banking & Finance (First Class Honours)<br>Python amateur, Pro Stata hater, and Learning R<br>🇬🇧
+Masters student in Computational Social Science<br>Bsc in Banking & Finance (First Class Honours)<br>Python amateur, Pro Stata hater, Learning R and SQL<br>🇬🇧
 
 
 # 💻 Tech Stack:
